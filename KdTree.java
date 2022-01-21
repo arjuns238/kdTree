@@ -1,7 +1,7 @@
 /* *****************************************************************************
- *  Name:
- *  Date:
- *  Description:
+ *  Name: Arjun Sriram
+ *  Date: 1/21/2022
+ *  Description: Build a kdTree from scratch using recursive algorithms
  **************************************************************************** */
 
 import edu.princeton.cs.algs4.Point2D;
@@ -39,12 +39,6 @@ public class KdTree {
 
     }
 
-    //  private boolean getOrientation(Node x) {
-
-    //       if (Math.log(size()) % 2 == 0)
-    //          return true;
-    //       else return false;
-    //  }
 
     // is the set empty?
     public boolean isEmpty() {
