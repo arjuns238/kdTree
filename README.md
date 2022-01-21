@@ -1,5 +1,5 @@
 # kdTree
-Implementation of KDTree with 2 dimensions from scratch. 2d-trees have numerous applications, ranging from classifying astronomical objects to computer animation to speeding up neural networks to mining data to image retrieval.
+Implementation of kdTree with 2 dimensions from scratch. 2d-trees have numerous applications, ranging from classifying astronomical objects to computer animation to speeding up neural networks to mining data to image retrieval.
 
 A 2d-tree is a generalization of a Binary Search Tree (BST) to 2-dimensional keys. The idea is to build a BST with points in the nodes, using the x- and y-coordinates of the points as keys in strictly alternating sequence.
 
